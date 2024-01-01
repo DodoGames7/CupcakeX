@@ -31,9 +31,11 @@ I still believe aoi.js is great and newbies coming from BDFD should give it a tr
 ### Bro??? Forgescript is a copy of aoi.js?????
 First, take time thinking about what you just said:
 
-"Why are there packages inspired by BDFD, not just aoi.js??"
-"Is a package being inspired by BDFD a rip off?"
-"How each package are similar but different to aoi?"
+> "Why are there packages inspired by BDFD, not just aoi.js??"
+
+> "Is a package being inspired by BDFD a rip off?"
+
+> "How each package are similar but different to aoi?"
 
 In other words, don't bother blaming any inspired package to be an copy of aoi.js when it isn't. Take a example of the package Hytescript.js where you can mistake it for being a rip off of aoi.js but if you actually take a closer look at the source code and see on how it works with it's respective functions then you can see that it's not a rip off but inspired by BDFD. 
 
