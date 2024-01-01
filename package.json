@@ -1,0 +1,21 @@
+{
+  "name": "Cupcakex",
+  "version": "1.0.0-beta.build-1051",
+  "description": "A hobby project developed by dodo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "npm install",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "dodoGames",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "forgedb": "^1.0.0",
+    "forgescript": "^1.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
