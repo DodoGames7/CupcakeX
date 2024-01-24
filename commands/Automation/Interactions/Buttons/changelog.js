@@ -13,8 +13,8 @@ $interactionUpdate[
 $author[Changelog center;$userAvatar[$botID];https://www.youtube.com/watch?v=dQw4w9WgXcQ]
 $title[Changes]
 $description[
-* Setup database in case the data isn't present
-* First public build. Nothing much
+* Update to development version of ForgeScript (1.4.0)
+* Updated ForgeDB package to the new name (\`forge.db\`)
 ]
 $color[Orange]
 $addActionRow
@@ -39,7 +39,7 @@ $interactionUpdate[
 $author[Changelog center;$userAvatar[$botID];https://www.youtube.com/watch?v=dQw4w9WgXcQ]
 $title[Bug Fixes]
 $description[
-*There're no bug fixes currently. Check back later for new releases!*
+*There're no bug fixes currently. Check back later for new builds!*
 ]
 $color[Orange]
 $addActionRow
@@ -64,7 +64,7 @@ $interactionUpdate[
 $author[Changelog center;$userAvatar[$botID];https://www.youtube.com/watch?v=dQw4w9WgXcQ]
 $title[Other]
 $description[
-* Disable author-only errors
+* There're no other changes currently. Check back later for new builds!*
 ]
 $color[Orange]
 $addActionRow
@@ -91,7 +91,7 @@ $title[Version Details]
     $description[
 * **Release**: 1.0.0
 * **Release type**: beta
-* **Date of the Build**: 1/1/24
+* **Date of the Build**: 1/24/24
 
   ⚠️ **For testing purposes only** ⚠️
     ]

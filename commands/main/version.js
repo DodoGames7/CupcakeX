@@ -6,7 +6,7 @@ $title[Version Details]
     $description[
 * **Release**: 1.0.0
 * **Release type**: beta
-* **Date of the Build**: 1/1/24
+* **Date of the Build**: 1/24/24
 
   ⚠️ **For testing purposes only** ⚠️
     ]

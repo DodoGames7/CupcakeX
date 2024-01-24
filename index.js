@@ -1,7 +1,7 @@
 const config = require("./config.json");
 
 const { ForgeClient } = require("forgescript")
-const { ForgeDB } = require("forgedb")
+const { ForgeDB } = require("forge.db")
 
 // Client initialization
    const client = new ForgeClient({
